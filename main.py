@@ -529,6 +529,6 @@ if df is not None:
         st.markdown(footer, unsafe_allow_html=True)
 
 else:
-    st.info('Aguardando o upload do banco de dados enviado pelo Inteli. O data app funciona apenas nesse banco de dados, pois ele foi limpo')
+    st.info('Aguardando o upload do banco de dados enviado pelo Inteli. É necessária a base de dados tratada para a veracidade das informações apresentadas.')
 
 
