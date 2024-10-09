@@ -517,7 +517,7 @@ if df is not None:
 
         </style>
         <div class="footer">
-            <a href="https://drive.google.com/file/d/1Q1OVR2rYqxuyL6j1HJb9wKE7rltpYvGp/view?usp=drive_link" target="_blank">Acesse aqui nossa Política de privacidade</a>
+            <a href="https://drive.google.com/file/d/1Q1OVR2rYqxuyL6j1HJb9wKE7rltpYvGp/view?usp=drive_link" target="_blank">Acesse aqui nossa Política de Privacidade</a>
         </div>
         """
 
