@@ -291,12 +291,12 @@ if df is not None:
         <style>
         .footer {
             a:link {
-                color: white;
+                color: black;
             }
 
             /* visited link */
             a:visited {
-              color: white;
+              color: black;
             }
 
             /* mouse over link */
